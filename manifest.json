@@ -1,0 +1,16 @@
+{
+  "name": "Tab Groups Exporter",
+  "description": "Utility to export tab groups",
+  "version": "0.1",
+  "permissions": [
+    "tabs",
+    "tabGroups",
+    "storage"
+  ],
+  "action": {
+    "default_title": "Export Tab Groups",
+    "default_popup": "tabs_api.html"
+  },
+  "icons": { "48" : "icon.png"},
+  "manifest_version": 3
+}

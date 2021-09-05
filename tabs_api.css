@@ -1,0 +1,13 @@
+table {
+    max-width: 500px;
+    min-width: 500px;
+    display: block;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+input#store-name {
+    min-width: 200;
+}

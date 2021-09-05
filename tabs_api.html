@@ -1,0 +1,20 @@
+<html>
+<head>
+<script src="date.format.js" defer></script>
+<script src="tabs_api.js" defer></script>
+<link rel="stylesheet" href="tabs_api.css">
+</head>
+<body>
+  <h6>Source code <a href="https://github.com/parthpower/chrome-tab-group-exporter" target="_blank">here</a></h6>
+  <h1>Tab Group Session JSON here:</h1>
+  <p><textarea id="tab-group-json" cols="30" rows="10"></textarea></p>
+  <button id="load">Load Session from JSON</button>
+  <div id="store">
+    <p>Session Name: <input id="store-name" placeholder="Session Name" width="100"></p>
+    <p><button id="store-button">Save Current Session</button></p>
+    <h1>Stored Sessions</h1>
+    <p><button id="store-clear-button">Clear All Saved Sessions</button></p>
+    <table id="stored-json"></table>
+  </div>
+</body>
+</html>
