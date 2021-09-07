@@ -4,6 +4,10 @@ Very simplistic chrome extension to save tab groups as sessions. Export/Import s
 
 ## How to install?
 
+Donwload from [Chrome Extension Web Store](https://chrome.google.com/webstore/detail/tab-groups-exporter/hcfnlphlglikfflkikgilkebljgbnica)
+
+Or
+
 Get released `.crx` from [releases](https://github.com/parthpower/chrome-tab-group-exporter/releases) page.
 
 ## Screenshot
@@ -21,10 +25,6 @@ Get released `.crx` from [releases](https://github.com/parthpower/chrome-tab-gro
 - Click on `Load unpacked` and select directory of this project
 
 For details go to Chrome extensions docs [here](https://developer.chrome.com/docs/extensions/)
-
-## Why this isn't on ChromeWeb Store?
-
-Maybe will publish it there if need be.
 
 ## Are you actually using this?
 
